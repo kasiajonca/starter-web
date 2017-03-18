@@ -12,4 +12,8 @@ Sample website with plenty of files for demos. Purpose is to learn Git and GitHu
 
 ## Deployment
 
+THis a simple web project, deployment can be on any web server or even local file system
+
 ## How to Contribute
+
+Contribute any time you want by ...
