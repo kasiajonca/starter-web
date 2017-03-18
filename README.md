@@ -17,3 +17,6 @@ THis a simple web project, deployment can be on any web server or even local fil
 ## How to Contribute
 
 Contribute any time you want by ...
+
+###
+2017 Kasia and Andrew
