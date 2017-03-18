@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kasia JOnca kasia.jonca@gmail.com blalsdfd
 
 # THANKS
 
