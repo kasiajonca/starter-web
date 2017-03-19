@@ -22,4 +22,4 @@ Please fork this repository and issue Pull Request for review.
 Contribute any time you want by ...
 
 ###
-2017 Kasia and Andrew
+2017 Kasia and Andrew all rights reserved.
